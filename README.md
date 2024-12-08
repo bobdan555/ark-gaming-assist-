@@ -1,2 +1,3 @@
 # ark-gaming-assist-
-helps you play ark
+disable anti cheat on steam 
+use injector to inject the dll 
